@@ -1,5 +1,5 @@
 ![my banner](header.png)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FF3A77A1&random=false&width=435&lines=%D0%AF+QA%2FAQA+%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%2C+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+Java%2FC%23%2FKotlin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=27&duration=5006&pause=1000&color=000000&background=DB7B7BFB&center=true&vCenter=true&random=false&width=435&lines=QA%2FAQA+%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80;%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%BD%D0%B0+Java%2FC%23%2FKotlin)](https://git.io/typing-svg)
 <!--
 **pilligrim28/pilligrim28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
