@@ -6,6 +6,27 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pilligrim28)](https://github.com/ryo-ma/github-profile-trophy)
 
+# О себе.
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilligrim28)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pilligrim28&theme=aura_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pilligrim28&theme=aura_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pilligrim28&theme=aura_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pilligrim28&theme=aura_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pilligrim28&theme=aura_dark)
+
+
+
+
 <!--
 **pilligrim28/pilligrim28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
